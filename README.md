@@ -121,19 +121,19 @@ The following findings were concluded upon;
  1. Technology has the highest sales with over 5,984,248.175
  2. Top 3 and bottom 3 regions are:
 Top 3
-    i. West(3,597,549.269)
-    ii. Ontario(3,063,212.476)
-    iii. Prarie(2,837,304.605)
+    - West(3,597,549.269)
+    - Ontario(3,063,212.476)
+    -  Prarie(2,837,304.605)
 Bottom 3
-    i. Nunavut(116,376.483)
-    ii. Northwest Territories(800,847.331)
-    iii. Yukon(975,867.376)
+    - Nunavut(116,376.483)
+    - Northwest Territories(800,847.331)
+      - Yukon(975,867.376)
 3. Total sales of appliances in Ontario 202,346.839
 5. The shipping method with the most cost is Delivery Truck with over 51,971.939
 6. The most valuable customers are:
-   i. Emily Phan
-   ii. Jasper Cacioppo
-   iii. Craig Carreira
+   - Emily Phan
+   - Jasper Cacioppo
+   - Craig Carreira
 They all bought (Polycom ViewStation™ ISDN Videoconferencing Unit)
 7. The small busineses owner with the highest sales is Dennis Kane with over 75,967.593
 8. The corporate customer with the most order in 2009-2012 is Adam Hart with total order of 27

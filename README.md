@@ -127,7 +127,7 @@ Top 3
 Bottom 3
     - Nunavut(116,376.483)
     - Northwest Territories(800,847.331)
-      - Yukon(975,867.376)
+    - Yukon(975,867.376)
 3. Total sales of appliances in Ontario 202,346.839
 5. The shipping method with the most cost is Delivery Truck with over 51,971.939
 6. The most valuable customers are:

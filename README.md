@@ -138,6 +138,10 @@ They all bought (Polycom ViewStation™ ISDN Videoconferencing Unit)
 7. The small busineses owner with the highest sales is Dennis Kane with over 75,967.593
 8. The corporate customer with the most order in 2009-2012 is Adam Hart with total order of 27
 9. The most profitable consumer consumeris Emily Phan with profit of 75,967.593
-    
-   
 
+ 
+### About ME
+Hi, I'm Odunze Happiness Silva, with a Bsc in Economics and also an aspiring Data Analyst.
+- Email: [click here](happinesssilva@gmail.com)
+- LinkedIn:[click here](https://www.linkedin.com/in/odunze-happiness-680984170/)
+- Contact me: +2348185736223

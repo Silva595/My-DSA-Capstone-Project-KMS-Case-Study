@@ -116,6 +116,27 @@ where Customer_Segment = 'Consumer'
 group by Customer_Name, Customer_Segment
 ORDER BY Totalprofit DESC;
 
+----Question 11;  If the delivery truck is the most economical but the slowest shipping method and
+Express Air is the fastest but the most expensive one, do you think the company
+appropriately spent shipping costs based on the Order Priority? Explain your answer.
+
+select order_priority, ship_mode,
+		count(Order_ID) as TotalOrder,
+		round(sum(sales - profit),2) as [Estimated shipping Cost],
+		avg(datediff(day,[order_date],[ship_date])) as avgshipdays
+from [dbo].[KMS Sql Case Study (10)]
+group by  order_priority, ship_mode
+order by   order_priority, ship_mode desc;
+
+SELECT order_priority, ship_mode,
+		count(distinct Order_ID) as TotalOrder,
+		SUM (Shipping_cost) as [Estimated shipping Cost],
+		avg(datediff(day,[order_date],[ship_date])) as avgshipdays
+from [dbo].[KMS Sql Case Study (10)] 
+group by  order_priority, ship_mode
+order by   order_priority, ship_mode desc;
+
+
 ### Key Insights and Findings
 The following findings were concluded upon;
  1. Technology has the highest sales with over 5,984,248.175
